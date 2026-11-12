@@ -42,3 +42,4 @@ class ProductServiceTest {
         assertDoesNotThrow(() -> productService.save(product));
     }
 }
+
