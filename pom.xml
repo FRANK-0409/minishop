@@ -19,7 +19,7 @@
 		<skipUTs>false</skipUTs>
 		<lombok.version>1.18.48</lombok.version>
 		<sonar.organization>frank-0409</sonar.organization>
-		<sonar.projectKey>frank-0409_minishop</sonar.projectKey>
+		<sonar.projectKey>FRANK-0409_minishop</sonar.projectKey>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.coverage.jacoco.xmlReportPaths>${project.build.directory}/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
 	</properties>
